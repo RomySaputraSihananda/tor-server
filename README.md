@@ -5,7 +5,7 @@ simple tor server images
 ## Build
 
 ```bash
-docker build -t romy/tor-server
+docker build -t romy/tor-server .
 ```
 
 ## Running
