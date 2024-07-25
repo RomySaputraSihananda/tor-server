@@ -1,4 +1,4 @@
-# tor-server-images
+# tor-server-image
 
 simple tor server images
 
