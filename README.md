@@ -1,6 +1,6 @@
 # tor-server-image
 
-simple tor server image with controller password ( )
+simple tor server image with controller password ( tor#1234 )
 
 ## Pull Image
 
