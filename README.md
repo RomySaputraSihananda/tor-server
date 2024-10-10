@@ -1,4 +1,4 @@
-# tor-server-image
+# tor-server
 
 simple tor server image with controller password ( tor#1234 )
 
@@ -8,7 +8,6 @@ simple tor server image with controller password ( tor#1234 )
 sudo docker pull ghcr.io/romysaputrasihananda/tor-server:latest
 
 ```
-
 
 ## Build
 
