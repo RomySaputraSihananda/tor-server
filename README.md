@@ -1,6 +1,14 @@
 # tor-server-image
 
-simple tor server images
+simple tor server image with controller password ( )
+
+## Pull Image
+
+```bash
+sudo docker pull ghcr.io/romysaputrasihananda/tor-server:latest
+
+```
+
 
 ## Build
 
